@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_LEADER_SAILOR_TOTORI_NAME">
+			<Text>Totori</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SAILOR_TOTORI_UA_NAME">
+			<Text>The Wayfarer of Arland</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SAILOR_TOTORI_UA_DESCRIPTION">
+			<Text>Starts with Sailing and Shipbuilding unlocked. Moving a unit adjacent to a foreign continent for the first time grants a [ICON_TechBoosted] Eureka. Founding or capturing a coastal city grants a free naval unit in that city.</Text>
+		</Replace>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAILOR_TOTORI" Language="en_US">
+			<Text>
+				You stand at the prow of destiny, Totooria Helmold. Let your adventurous spirit chart a course through tranquil and turbulent waters alike, for your mettle and experience are more than enough to brave any challenge. Lead those who would throw in with you onward to horizon after horizon, and the world shall be yours.
+			</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_TITLE" Language="en_US">
+			<Text>Totori</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_SUBTITLE" Language="en_US">
+			<Text>Totooria Helmold</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_QUOTE" Language="en_US">
+			<Text>
+				Look at this book! It says "Totori &amp; Mimi's Adventures"! It's about us!
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>
+				Totori is first introduced in Atelier Totori: The Adventurer of Arland as a young, somewhat clumsy and naive aspiring alchemist. She means well, and is very sweet and caring. When she begins her life of adventuring, Totori is timid, shy, and tires easily. She depends on the support of others, but eventually grows to be a strong and dependable adventurer, making many friends along the way and spreading her name throughout Arland.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+				She grew up in the small fishing village of Alanya with her childhood friend Gino, and is the daughter of a world famous adventurer Gisela. Her mother's mysterious disappearance prompted Totori to begin adventuring, and to gather clues of her mother's whereabouts.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>
+				She received her alchemy lessons from the famous alchemist Rorona, and was Rorona's first student. She makes a lot of mistakes when she first begins practicing alchemy (and causes many explosions), but eventually becomes a very distinguished alchemist, even becoming good enough to teach others after years of practice. She uses the assistance of Chim in battle and in alchemy.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>
+				The game follows a young and aspiring alchemist, Totooria Helmold. She recieved her teachings from the great Rorolina Frixell, the protagonist of the previous game. Her mother, Gisela Helmold is a famous adventurer who stopped coming home to visit 2 years ago. As Totori grows older, she wishes to find out more about her mother's whereabouts, and this becomes the game's main objective.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>
+				Totori asks her sister if she can become an adventurer. Her sister Cecilia Helmold ("Ceci" as she's more often called), immediately says no to Totori's request, fearing that Totori will go missing just like their mother. Totori is still determined, however, and speaks to her childhood friend Gino Knab, who also wants to become an adventurer.
+
+				They speak to the carriage driver Peter who tells them that they will need 100,000 cole to travel to Arland, the home of the Adventurer's Guild. Gino and Totori decide to slay monsters and collect materials around Alanya for a month in order to raise the money.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>
+				After a month, a discouraged Gino and Totori realize that they don't have nearly enough money to pay for the carriage trip to Arland. Seeing how serious Totori is about getting an adventurer's license, Ceci decides to give Totori permission to become an adventurer and gives her money for the trip. Now that she's been given permission, Totori and Gino travel to Arland.
+
+				When they arrive in Arland, Gino and Totori go to get their Adventurer's Licenses. At the guild, Totori and Gino walk into an argument happening between Cordelia and Mimi. When Cordelia realizes that Totori is an alchemist, she deems her valuable, and gives her and Gino their licenses immediately.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>
+				Ceci is worried sick by the time that Totori arrives back home to Alanya, but Totori tells Ceci the good news. Cordelia has told Totori that she will only have her license for three years before it will need to be renewed. If Totori fails to accumulate enough points on her license, then her license will be revoked. From this point on, the game's official introduction has ended, and the player will have three years to level up Totori's license.
+
+				After the third year, Totori will learn a bit about her mother's whereabouts from Cordelia who recognizes that Totori's last name is is also Helmold, just like Gisela. Cordelia gives Totori a piece of paper that Gisela had written on, which explains that she was going out to sea.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>
+				When Totori excitedly returns to her family to tell them that she may know where Gisela was going, they tragically explain that pieces of her boat were washed up on shore and she was assumed dead. Totori still refuses to believe that her mother is dead, and asks her father Guid to build her a ship. Ceci is outraged, and ignores both her father and Totori, refusing to go along with their plan. Until Ceci gives Guid and Totori permission to build the ship, the player will not be allowed to leave Alanya until Ceci agrees to go along with the plan.
+
+				Totori must gather supplies and deliver the ship parts in order for her father to build the ship. Once all of the pieces are delivered, Guid builds Totori a ship, and she is sent on her way out to sea. By heading east, Totori runs into the Flauschtraut, a giant monsterous fish that was believed to destroy Gisela's ship. Upon seeing the scar on the Flauschtraut's face, Totori believes that Gisela herself inflicted the wound and gains confidence to defeat it.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>
+				After the Flauschtraut is defeated, Totori heads to Frontier Village, the area that her mother was last heard from. Upon her arrival, the village elder Pilca is shocked that Totori has arrived. She tells Totori of the events that followed after Gisela visited Frontier Village, and Totori finds a gravestone put up by the villagers for Gisela. She returns to Alanya village to deliver the news to Ceci and Guid.
+
+				The game ends when Totori goes to get her permanent license in the 7th year. Depending on the player's actions throughout the game, they will receive different endings. The 'True Ending' of the game depicts Totori's mother coming home.
+
+				In Atelier Meruru: The Apprentice of Arland, Totori explains that her mother came suddenly home one day, so it can be assumed that her mother never actually died.
+			</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Um, hi. I'm Totori Helmold, alchemist and professional adventurer. Have you by chance seen a black-haired woman with a halberd in your domain?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Join me on my flagship, where we can share adventures over a glass of giant squid liquor.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Sure.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>My hometown is small, but it has no shortage of vistas and seafood. How about yours?</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Oh?</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>I'll see that they're treated kindly, and that their gifts are used in the best syntheses.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>I'm out questing at the moment. Try again later.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>A dhow laden with anchobeer and halibut pie will soon moor at your nearest harbor.</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Borders shouldn't get in the way of all the world has to offer.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>You're too much of a loose cannon for that to happen.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>May I cross your borders to get to the quest on the other side?</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>That sounds hunky-dory.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Um, I'd rather give you a wide berth.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>They say friendship is like ships that pass in the night, but I think we'll last awhile. Don't you?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>I'm glad.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Oh, okay.</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>When you're caught between the devil and the deep blue sea, you'll be grateful for a dependable party. Should we form one of our own?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Could you move your military somewhere that isn't so... close quarters?</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Deal.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Your offer would leave me high and dry.</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>You've had one too many anchobeers.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>You're so monstrous you make the Flauschtraut look like a philanthropist! (Denounces You.)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>You show your true colors at your own peril.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>You'd best batten down the hatches, because it's typhoon season.</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>A return to calm waters.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>You'll have to ride out this storm.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>Let's stop making waves.</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>I always knew that one adventure would be my last.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>To the sea floor with you.</Text>
+		</Row>
+
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_SAILOR_TOTORI_NAME" Language="en_US">
+			<Text>Pioneer</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAILOR_TOTORI_DESCRIPTION" Language="en_US">
+			<Text>Totori will seek the frontiers, and would rather you left them to her.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_TOTORI_REASON_HIGH_EXPLORATION" Language="en_US">
+			<Text>(You have explored more than Totori.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_TOTORI_HIGH_EXPLORATION" Language="en_US">
+			<Text>Totori dislikes those who have explored more of the world.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_TOTORI_REASON_LOW_EXPLORATION" Language="en_US">
+			<Text>(You have explored less than Totori.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_TOTORI_LOW_EXPLORATION" Language="en_US">
+			<Text>Totori likes those who have explored less of the world.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>It's wise of you to leave adventuring to the professionals.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAILOR_TOTORI_ANY" Language="en_US">
+			<Text>This is your shot across the bows. Kindly refrain from seeking frontiers better suited to a master adventurer.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

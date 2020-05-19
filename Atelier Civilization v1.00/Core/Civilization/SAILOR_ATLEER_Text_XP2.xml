@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Mountain Ranges-->
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_CALAMITOUS_MOUNTAINS" Language="en_US">
+			<Text>Calamitous Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_STER_HIGHLANDS" Language="en_US">
+			<Text>Ster Highlands</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_MORRAKIS_RANGE" Language="en_US">
+			<Text>Morrakis Range</Text>
+		</Row>
+		<!--Rivers-->
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_MORNING_MIST_RIVER" Language="en_US">
+			<Text>Morning Mist River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_STRUDEL_RIVER" Language="en_US">
+			<Text>Strudel River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_FORGETFUL_STREAM" Language="en_US">
+			<Text>Forgetful Stream</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_ABANDONED_RIVER" Language="en_US">
+			<Text>Abandoned River</Text>
+		</Row>
+		<!--Deserts-->
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_DUSK_SEA" Language="en_US">
+			<Text>Dusk Sea</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_SCORCHED_WASTELAND" Language="en_US">
+			<Text>Scorched Wasteland</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_BRAISEWEST_DESERT" Language="en_US">
+			<Text>Braisewest Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_WITHERING_PLAINS" Language="en_US">
+			<Text>Withering Plains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_SEARING_WASTES" Language="en_US">
+			<Text>Searing Wastes</Text>
+		</Row>
+		<!--Volcanoes-->
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_GREAT_CASCADES_OF_ANFEL" Language="en_US">
+			<Text>Great Cascades of Anfel</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_FATALIA_SUMMIT" Language="en_US">
+			<Text>Fatalia Summit</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_VELUS" Language="en_US">
+			<Text>Mount Velus</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_WIELAND" Language="en_US">
+			<Text>Mount Wieland</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_GREUGNET" Language="en_US">
+			<Text>Mount Greugnet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_WEISSBERG_VOLCANO" Language="en_US">
+			<Text>Weissberg Volcano</Text>
+		</Row>
+		<!--Lakes-->
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_NABEL_LAKE" Language="en_US">
+			<Text>Nabel Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_SEA_DRAGON_POOL" Language="en_US">
+			<Text>Sea Dragon Pool</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_TIMELOST_LAKE" Language="en_US">
+			<Text>Timelost Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_LAKE_FORWEL" Language="en_US">
+			<Text>Lake Forwel</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_CRESCENT_LAKE" Language="en_US">
+			<Text>Crescent Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_HEBEL_LAKE" Language="en_US">
+			<Text>Hebel Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_PROSPECTORS_STRAND" Language="en_US">
+			<Text>Prospector's Strand</Text>
+		</Row>
+		<!--Seas-->
+		<Row Tag="LOC_NAMED_SAILOR_SEA_TWILIGHT_OCEAN" Language="en_US">
+			<Text>Twilight Ocean</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_SEA_WAVEBREAKER_COVE" Language="en_US">
+			<Text>Wavebreaker Cove</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
