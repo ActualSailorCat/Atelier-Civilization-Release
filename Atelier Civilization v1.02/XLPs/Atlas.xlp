@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_22"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_256"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_50"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_80"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_Infrastructure_SAILOR_Atleer_UI"/>
+			<m_ObjectName text="Moment_Infrastructure_SAILOR_Atleer_UI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_200"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_22"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_256"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_30"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_36"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_44"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_128"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_256"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_32"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_38"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_50"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_80"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_UniqueUnit_SAILOR_Atleer_UU"/>
+			<m_ObjectName text="Moment_UniqueUnit_SAILOR_Atleer_UU"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_TOTORI_256"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_TOTORI_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_TOTORI_32"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_TOTORI_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_TOTORI_45"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_TOTORI_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_TOTORI_50"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_TOTORI_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_TOTORI_55"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_TOTORI_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_TOTORI_64"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_TOTORI_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_TOTORI_80"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_TOTORI_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_TOTORI_COLOR_256"/>
+			<m_ObjectName text="ICON_SAILOR_TOTORI_COLOR_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_TOTORI_COLOR_45"/>
+			<m_ObjectName text="ICON_SAILOR_TOTORI_COLOR_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_LNS_256"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_LNS_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_LNS_32"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_LNS_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_LNS_45"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_LNS_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_LNS_50"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_LNS_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_LNS_55"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_LNS_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_LNS_64"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_LNS_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAILOR_LNS_80"/>
+			<m_ObjectName text="ICON_LEADER_SAILOR_LNS_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_32"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_38"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_PORTRAIT_200"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_PORTRAIT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_PORTRAIT_256"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_PORTRAIT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_PORTRAIT_38"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_PORTRAIT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_PORTRAIT_50"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_PORTRAIT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_PORTRAIT_70"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_PORTRAIT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_SAILOR_ATLEER_UU_PORTRAIT_95"/>
+			<m_ObjectName text="ICON_SAILOR_ATLEER_UU_PORTRAIT_95"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

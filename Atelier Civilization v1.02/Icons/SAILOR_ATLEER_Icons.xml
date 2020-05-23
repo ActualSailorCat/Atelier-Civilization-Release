@@ -1,0 +1,75 @@
+<GameInfo>
+	<IconTextureAtlases>
+		<!--Atleer-->
+		<!--Civ-->
+		<Row Name="ICON_ATLAS_CIV_SAILOR_ATLEER" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_256.dds"/>
+		<Row Name="ICON_ATLAS_CIV_SAILOR_ATLEER" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_200.dds"/>
+		<Row Name="ICON_ATLAS_CIV_SAILOR_ATLEER" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_22.dds"/>
+		<Row Name="ICON_ATLAS_CIV_SAILOR_ATLEER" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_30.dds"/>
+		<Row Name="ICON_ATLAS_CIV_SAILOR_ATLEER" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_36.dds"/>
+		<Row Name="ICON_ATLAS_CIV_SAILOR_ATLEER" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_44.dds"/>
+		<!--UU-->
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_22.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_32.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_38.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_50.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_80.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_256.dds"/>
+		<!--UU Portrait-->
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_PORTRAIT_38.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_PORTRAIT_50.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_PORTRAIT_70.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_PORTRAIT_95.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_PORTRAIT_200.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UU_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ATLEER_UU_PORTRAIT_256.dds"/>
+		<!--UI-->
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UI" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_128.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UI" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_32.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UI" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_38.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UI" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_50.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UI" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_80.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ATLEER_UI" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_IMPROVEMENT_SAILOR_ATLEER_UI_256.dds"/>
+		
+		<!--Totori-->
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_TOTORI" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_TOTORI_32.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_TOTORI" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_TOTORI_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_TOTORI" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_TOTORI_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_TOTORI" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_TOTORI_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_TOTORI" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_TOTORI_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_TOTORI" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_TOTORI_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_TOTORI" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_TOTORI_256.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_TOTORI_COLOR" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_TOTORI_COLOR_45.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_TOTORI_COLOR" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_TOTORI_COLOR_256.dds"/>
+
+		<!--Lydie & Suelle-->
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_LNS" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_LNS_32.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_LNS" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_LNS_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_LNS" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_LNS_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_LNS" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_LNS_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_LNS" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_LNS_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_LNS" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_LNS_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_SAILOR_LNS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_SAILOR_LNS_256.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_LNS_COLOR" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_LNS_COLOR_45.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_LNS_COLOR" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_LNS_COLOR_256.dds"/>
+		<!--Lydie & Suelle Resource-->
+		<Row Name="ICON_ATLAS_SAILOR_LNS_RESOURCE" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_LNS_RESOURCE_38"/>
+		<Row Name="ICON_ATLAS_SAILOR_LNS_RESOURCE" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_LNS_RESOURCE_50"/>
+		<Row Name="ICON_ATLAS_SAILOR_LNS_RESOURCE" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_LNS_RESOURCE_64"/>
+		<Row Name="ICON_ATLAS_SAILOR_LNS_RESOURCE" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_LNS_RESOURCE_256"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<!--Atleer-->
+		<Row Name="ICON_CIVILIZATION_SAILOR_ATLEER"			Atlas="ICON_ATLAS_CIV_SAILOR_ATLEER" Index="0"/>
+		<Row Name="ICON_UNIT_SAILOR_ATLEER_UU"				Atlas="ICON_ATLAS_SAILOR_ATLEER_UU" Index="0"/>
+		<Row Name="ICON_UNIT_SAILOR_ATLEER_UU_PORTRAIT"		Atlas="ICON_ATLAS_SAILOR_ATLEER_UU_PORTRAIT" Index="0"/>
+		<Row Name="ICON_IMPROVEMENT_SAILOR_ATLEER_UI"		Atlas="ICON_ATLAS_SAILOR_ATLEER_UI" Index="0"/>
+		<!--Totori-->
+		<Row Name="ICON_LEADER_SAILOR_TOTORI"				Atlas="ICON_ATLAS_LEADER_SAILOR_TOTORI" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_SAILOR_TOTORI_COLOR"	Atlas="ICON_ATLAS_SAILOR_TOTORI_COLOR" Index="0"/>
+		<!--Lydie & Suelle-->
+		<Row Name="ICON_LEADER_SAILOR_LNS"					Atlas="ICON_ATLAS_LEADER_SAILOR_LNS" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_SAILOR_LNS_COLOR"		Atlas="ICON_ATLAS_SAILOR_LNS_COLOR" Index="0"/>
+		<Row Name="ICON_RESOURCE_SAILOR_LNS"				Atlas="ICON_ATLAS_SAILOR_LNS_RESOURCE" Index="0"/>
+	</IconDefinitions>
+</GameInfo>
