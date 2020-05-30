@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+	<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_NAME" Language="en_US">
+			<Text>Atelier</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_DESCRIPTION" Language="en_US">
+			<Text>Atelier Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_ADJECTIVE" Language="en_US">
+			<Text>Atelier</Text>
+		</Row>
+
+	<!--Pedia
+		<Row Tag="LOC_CIVINFO_SAILOR_ATLEER_LOCATION" Language="en_US">
+			<Text>Asia and Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAILOR_ATLEER_POPULATION" Language="en_US">
+			<Text>About 21 million before the plague; about 13 million after.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAILOR_ATLEER_SIZE" Language="en_US">
+			<Text>3,500,000 km² (1,400,000 sq mi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAILOR_ATLEER_CAPITAL" Language="en_US">
+			<Text>Arland</Text>
+
+		</Row>-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAILOR_ATLEER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Atelier series is a franchise of role-playing video games developed by the Gust Corporation since 1997, primarily for the PlayStation line of consoles (PlayStation, PlayStation 2, PlayStation 3, and PlayStation 4); portable versions for the Game Boy Color, Game Boy Advance, Nintendo DS, Nintendo 3DS, PlayStation Portable, PlayStation Vita and WonderSwan Color have also been made. Two of the games in the series were ported to the Sega Saturn and Dreamcast. The series has been primarily released in Japan, though recent titles have been localized for other markets. The franchise centers around the concept of an atelier specialising in alchemy; the gameplay involves finding, collecting, and combining items in recipes to create better items, which allows the player to advance further in the game.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAILOR_ATLEER_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Alchemy is the distinguishing theme of the Atelier series. Players control the game's character, roaming the game world to collect objects to use in alchemy recipes to create new objects, including cooking ingredients, recovery items, tools, weapons, armor, and accessories. Synthesized objects are commonly required in order to create more powerful or potent objects through alchemy. Many of the games feature a method of transferring properties of one item from the recipe to the synthesized item. Recipes also often allow the substitution of items, which can either lend better properties to the final synthesized item, or can lead to the character thinking of a completely new recipe. The games generally feature a turn-based combat system, in which the items made through alchemy come into play, either to boost the character's abilities, or for offensive, defensive, or support items.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAILOR_ATLEER_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The games' stories are typically light-hearted and humorous, often deriving conflict from a source other than an antagonist, and the player ends up with a large group of characters to explore the world with. In most games of the series, the player has a limited in-game time to accomplish one or more main objectives and actions like gathering items, traveling or synthesizing spend a portion of that time. Failure to accomplish the game's main tasks in time may cause the game to end abruptly or lead to a bad end, though these time limits tend to be rather lenient. The first entry in the "Mysterious" Atelier series, Atelier Sophie, does away with the time limit system, but the second entry Atelier Firis has a time limit for completing the game's first story objective, after which players can play at their leisure.</Text>
+		</Row>
+		
+	<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_1" Language="en_US">
+			<Text>Hagel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_2" Language="en_US">
+			<Text>Logy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_3" Language="en_US">
+			<Text>Vayne</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_4" Language="en_US">
+			<Text>Razeluxe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_5" Language="en_US">
+			<Text>Klein</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_6" Language="en_US">
+			<Text>Felt</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_7" Language="en_US">
+			<Text>Edge</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_8" Language="en_US">
+			<Text>Sterk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_9" Language="en_US">
+			<Text>Chim</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_10" Language="en_US">
+			<Text>Keithgriff</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_1" Language="en_US">
+			<Text>Roger</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_2" Language="en_US">
+			<Text>Mathias</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_3" Language="en_US">
+			<Text>Peter</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_4" Language="en_US">
+			<Text>Pepperoncino</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_5" Language="en_US">
+			<Text>Gerhard</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_6" Language="en_US">
+			<Text>Iksel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_7" Language="en_US">
+			<Text>Oskar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_8" Language="en_US">
+			<Text>Marc</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_9" Language="en_US">
+			<Text>Gio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_10" Language="en_US">
+			<Text>Harry</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_1" Language="en_US">
+			<Text>Marie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_2" Language="en_US">
+			<Text>Elie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_3" Language="en_US">
+			<Text>Lilie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_4" Language="en_US">
+			<Text>Judie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_5" Language="en_US">
+			<Text>Viorate</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_6" Language="en_US">
+			<Text>Iris</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_7" Language="en_US">
+			<Text>Ulrika</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_8" Language="en_US">
+			<Text>Viese</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_9" Language="en_US">
+			<Text>Nelke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_10" Language="en_US">
+			<Text>Pamela</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_1" Language="en_US">
+			<Text>Ilmeria</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_2" Language="en_US">
+			<Text>Firis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_3" Language="en_US">
+			<Text>Sophie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_4" Language="en_US">
+			<Text>Lulua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_5" Language="en_US">
+			<Text>Shallie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_6" Language="en_US">
+			<Text>Shallotte</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_7" Language="en_US">
+			<Text>Escha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_8" Language="en_US">
+			<Text>Ayesha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_9" Language="en_US">
+			<Text>Meruru</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_10" Language="en_US">
+			<Text>Rorona</Text>
+		</Row>
+
+		<!--UnitNames-->
+		<Row Tag="LOC_UNITNAME_SUFFIX_SAILOR_ALCHEMIST" Language="en_US">
+			<Text>Alchemists</Text>
+		</Row>
+
+		<!--UA-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_NAME" Language="en_US">
+			<Text>Alchemical Synthesis</Text>
+		</Row>
+			<!--R&F, Vanilla-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_DESCRIPTION" Language="en_US">
+			<Text>Earning a [ICON_TechBoosted] Eureka or [ICON_CivicBoosted] Inspiration has a chance to spawn a random resource within your territory. Units that require strategic resources receive a +6 [ICON_Strength] Combat Strength Bonus when attacking units that do not.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAILOR_ATLEER_UA_MOD_PREVIEW_TEXT" Language="en_US">
+			<Text>+6 when attacking units that don't require strategic resources.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAILOR_ATLEER_UA_NAME" Language="en_US">
+			<Text>Alchemical Advantage</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAILOR_ATLEER_UA_DESCRIPTION" Language="en_US">
+			<Text>+6 [ICON_Strength] Combat Strenght Bonus when attacking units that don't require strategic resources.</Text>
+		</Row>
+			<!--Gathering Storm-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_XP2_DESCRIPTION" Language="en_US">
+			<Text>Earning a [ICON_TechBoosted] Eureka or [ICON_CivicBoosted] Inspiration has a chance to spawn a random resource within your territory. While improved, strategic resources increase their stockpiles by an amount equal to five turns of accumulation.</Text>
+		</Row>
+
+		<!--UU-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SAILOR_ATLEER_UU_NAME" Language="en_US">
+			<Text>Puni</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SAILOR_ATLEER_UU_DESCRIPTION" Language="en_US">
+			<Text>Atelier unique Ancient era unit that costs less to produce than the Scout it replaces. Gains 2 bonus [ICON_Movement] Movement if it begins its turn on a hills tile.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAILOR_ATLEER_UU_NAME" Language="en_US">
+			<Text>Puni</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAILOR_ATLEER_UU_DESCRIPTION" Language="en_US">
+			<Text>Atelier unique Ancient era unit that costs less to produce than the Scout it replaces. Gains 2 bonus [ICON_Movement] Movement if it begins its turn on a hills tile.</Text>
+		</Row>
+
+		<!--UI-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SAILOR_ATLEER_UI_NAME" Language="en_US">
+			<Text>Atelier</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SAILOR_ATLEER_UI_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Housing] Housing. +1 [ICON_Science] Science and +2 [ICON_Gold] Gold for each adjacent Strategic resource, +1 [ICON_Culture] Culture and +2 [ICON_Gold] Gold for each adjacent Luxury resource, +1 [ICON_Food] Food and +1 [ICON_Production] Production for each adjacent Bonus resource—all doubled after researching Chemistry. Can be built on features. One per city.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_ATLEER_UI_NAME" Language="en_US">
+			<Text>Atelier</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_ATLEER_UI_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Housing] Housing. +1 [ICON_Science] Science and +2 [ICON_Gold] Gold for each adjacent Strategic resource, +1 [ICON_Culture] Culture and +2 [ICON_Gold] Gold for each adjacent Luxury resource, +1 [ICON_Food] Food and +1 [ICON_Production] Production for each adjacent Bonus resource—all doubled after researching Chemistry. Can be built on features. One per city.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
