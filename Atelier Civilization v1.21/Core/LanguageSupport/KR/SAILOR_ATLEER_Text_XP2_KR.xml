@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Mountain Ranges-->
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_CALAMITOUS_MOUNTAINS" Language="ko_KR">
+			<Text>칼라미토스 산</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_STER_HIGHLANDS" Language="ko_KR">
+			<Text>스테르 고원지</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_MORRAKIS_RANGE" Language="ko_KR">
+			<Text>모라키스 산맥</Text>
+		</Row>
+		<!--Rivers-->
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_MORNING_MIST_RIVER" Language="ko_KR">
+			<Text>아침 안개의 강</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_STRUDEL_RIVER" Language="ko_KR">
+			<Text>스트루델 강</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_FORGETFUL_STREAM" Language="ko_KR">
+			<Text>잊혀진 개울</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_ABANDONED_RIVER" Language="ko_KR">
+			<Text>버려진 강</Text>
+		</Row>
+		<!--Deserts-->
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_DUSK_SEA" Language="ko_KR">
+			<Text>황혼의 바다</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_SCORCHED_WASTELAND" Language="ko_KR">
+			<Text>불타버린 황무지</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_BRAISEWEST_DESERT" Language="ko_KR">
+			<Text>브레이즈웨스트 사막</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_WITHERING_PLAINS" Language="ko_KR">
+			<Text>시들어가는 평원</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_SEARING_WASTES" Language="ko_KR">
+			<Text>이글거리는 폐기물</Text>시간 강
+		</Row>
+		<!--Volcanoes-->
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_GREAT_CASCADES_OF_ANFEL" Language="ko_KR">
+			<Text>안펠의 위대한 계곡</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_FATALIA_SUMMIT" Language="ko_KR">
+			<Text>파탈리아 정상</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_VELUS" Language="ko_KR">
+			<Text>벨루스 산</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_WIELAND" Language="ko_KR">
+			<Text>윌랜드 산</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_GREUGNET" Language="ko_KR">
+			<Text>그뤼그넷 산</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_WEISSBERG_VOLCANO" Language="ko_KR">
+			<Text>와이스베르크 화산</Text>
+		</Row>
+		<!--Lakes-->
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_NABEL_LAKE" Language="ko_KR">
+			<Text>바벨 호수</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_SEA_DRAGON_POOL" Language="ko_KR">
+			<Text>해룡의 별장</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_TIMELOST_LAKE" Language="ko_KR">
+			<Text>시간이 숨은 호수</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_LAKE_FORWEL" Language="ko_KR">
+			<Text>포웰 호수</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_CRESCENT_LAKE" Language="ko_KR">
+			<Text>크레센트 호수</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_HEBEL_LAKE" Language="ko_KR">
+			<Text>헤벨 호수</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_PROSPECTORS_STRAND" Language="ko_KR">
+			<Text>나무꾼의 물가</Text>
+		</Row>
+		<!--Seas-->
+		<Row Tag="LOC_NAMED_SAILOR_SEA_TWILIGHT_OCEAN" Language="ko_KR">
+			<Text>황혼의 바다</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_SEA_WAVEBREAKER_COVE" Language="ko_KR">
+			<Text>쇄파의 도개교</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

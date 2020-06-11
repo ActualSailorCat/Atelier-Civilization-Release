@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Replace Tag="LOC_LEADER_SAILOR_LNS_NAME">
+			<Text>Lydie &amp; Suelle</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_NAME">
+			<Text>Mysterious Paintings</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_DESCRIPTION">
+			<Text>The Palace has an extra slot for a [ICON_GreatWork_Portrait][ICON_GreatWork_Landscape][ICON_GreatWork_Religious][ICON_GreatWork_Sculpture] Great Work of Art. The Atelier improvement generates +1 [ICON_GreatArtist] Great Artist points per turn when adjacent to three or more resources. Recruiting a [ICON_GreatArtist] Great Artist awards an [ICON_CivicBoosted] Inspiration.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_XP_DESCRIPTION">
+			<Text>The Palace and Government Plaza buildings have a [ICON_GreatWork_Portrait][ICON_GreatWork_Landscape][ICON_GreatWork_Religious][ICON_GreatWork_Sculpture] Great Work of Art slot. The Atelier improvement generates +1 [ICON_GreatArtist] Great Artist points per turn when adjacent to three or more resources. Recruiting a [ICON_GreatArtist] Great Artist awards an [ICON_CivicBoosted] Inspiration.</Text>
+		</Replace>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAILOR_LNS">
+			<Text>
+				Lydie &amp; Suelle Malen, your strong bond and deep capacity for empathy are your greatest assets in running the greatest atelier in the kingdom for the good of everyone. Use the worlds you create in your mysterious paintings to inspire a better world for your civilization.
+			</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_TITLE">
+			<Text>Lydie &amp; Suelle</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_SUBTITLE">
+			<Text>Lydie &amp; Suelle Malen</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_QUOTE">
+			<Text>
+				Promise with Mom Number 27! "When you want to have fun, don't hold anything back!"
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_CHAPTER_HISTORY_PARA_1">
+			<Text>
+				She’s the calm and quiet older twin sister of Suelle. She’s known for having a unique sense of art. She's from a small Atelier located in the capital city of Adalett, called Merveille. She is the more stable out of the two twins and looks after her younger sister. The two dream to one day run the kingdom's top atelier. She isn't very good at physical exercise, but is good at studying. She's social and kind, carefree and does things at her own pace. However, sometimes she can be a bit of an airhead. As a playable character she is more inclined towards support and healing. She is also more frail than her twin sister.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_CHAPTER_HISTORY_PARA_2">
+			<Text>
+				Suelle Malen is the opposite of her twin sister, Lydie, as an energetic girl who is more of a tomboy but dislikes bugs. She's from a small Atelier located in the capital city of Adalett, called Merveille. She and her sister dreams to one day run the kingdom's top atelier. She is the younger of the two and often teases her older sister, and is generally careless. However, she does appear to be a genius. As a playable character, Suelle is more robust and offensive-mannered than her sister.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_CHAPTER_HISTORY_PARA_3">
+			<Text>
+
+			</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAILOR_LNS_ANY">
+			<Text>We're Lydie and Suelle, alchemist-artists who run the greatest atelier in all the kingdom, for the good of everyone. Let's get along.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAILOR_LNS_ANY">
+			<Text>Join us at our atelier for a refreshing plate of puni jelly?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAILOR_LNS_ANY">
+			<Text>Okay.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAILOR_LNS_ANY">
+			<Text>Our mysterious paintings are windows into fantastical worlds of all types. How'd you like to tour the gallery?</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SAILOR_LNS_ANY">
+			<Text>Come in.</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>Your delegation was escorted through the Gates of Merk to nap in the flowerful Garden of Merk. It must've been an exhausting trip.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>We don't want your ill-begotten gifts.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>Our delegate is eager to deliver a set of personally-synthesized dream paintbrushes wrapped in spirit weave cloth.</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>Be careful out there. Adalet is home to hordes of ferocious beasts.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>You're too seedy for our city.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>We're out in search of inspiration. Could we please tote our easel through your lands? </Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>Promise with Mom Number 27: 'When you want to have fun, don't hold anything back!'</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>Promise with Mom Number 5: 'Stay away from strange people!'</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>More friends means more occasions to have friends over for sweets and tea. How about it?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>Hooray!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>Boo.</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>You can't pull off a combination art without an ally. We'll be yours.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAILOR_LNS_ANY">
+			<Text>If you remove your military from our borders now we'll remember Promise with Mom Number 7: 'Sometimes pretend you didn't see anything.'</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>Yep.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>Don't be a cole-pincher.</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>Have you gotten into our paints? Those aren't for eating.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>You're an inky blot upon the world. We're all but convinced you escaped the Black Horizon. (Denounces You.)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>If you think you've caught us unprepared, you haven't seen us synthesize in battle.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>Someone has to be the one to free your citizens from tyranny. We just happen have a cache of N/A bombs.</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SAILOR_LNS_ANY">
+			<Text>Phew. Good thing we packed a few mystery elixirs.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SAILOR_LNS_ANY">
+			<Text>We still have an all-in super-bomb with your name on it.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>Let's synthesize peace.</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAILOR_LNS_ANY">
+			<Text>Of all the worlds in our mysterious paintings, we couldn't account for the harshness of this one...</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAILOR_LNS_ANY">
+			<Text>Don't worry. We'll find a place for you in one of our paintings.</Text>
+		</Row>
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_SAILOR_LNS_NAME">
+			<Text>Empathetic Twins</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAILOR_LNS_DESCRIPTION">
+			<Text>Lydie &amp; Suelle want their citizens to enjoy happy lives, and expect the same from other civilizations.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_LNS_REASON_HAPPY_CITIZEN">
+			<Text>(Your citizens are happy.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_LNS_HAPPY_CITIZENS">
+			<Text>Lydie &amp; Suelle like civs with a happy population.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_LNS_REASON_UNHAPPY_CITIZEN">
+			<Text>(Your citizens are unhappy.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_LNS_UNHAPPY_CITIZENS">
+			<Text>Lydie &amp; Suelle dislike civs with an unhappy population.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAILOR_LNS_ANY">
+			<Text>We attended the festival that your citizens recently threw in your honor. You really seem to care for their well-being.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAILOR_LNS_ANY">
+			<Text>Leaders who can't empathize with the plight of their citizens should abdicate.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

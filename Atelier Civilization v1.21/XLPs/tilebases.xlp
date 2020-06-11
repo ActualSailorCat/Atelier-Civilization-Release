@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AssetObjects:XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>260</build>
+		<revision>754</revision>
+	</m_Version>
+	<m_ClassName text="TileBase"/>
+	<m_PackageName text="landmarks/tilebases"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="IMP_SAILOR_ATLEER"/>
+			<m_ObjectName text="IMP_SAILOR_ATLEER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Cauldron"/>
+			<m_ObjectName text="SAILOR_Atleer_Cauldron"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Bld"/>
+			<m_ObjectName text="SAILOR_Atleer_Bld"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Taru"/>
+			<m_ObjectName text="SAILOR_Atleer_Taru"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Well"/>
+			<m_ObjectName text="SAILOR_Atleer_Well"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMP_SAILOR_ATLEER_ALT"/>
+			<m_ObjectName text="IMP_SAILOR_ATLEER_ALT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Cauldron_Alt"/>
+			<m_ObjectName text="SAILOR_Atleer_Cauldron_Alt"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Bld_Alt"/>
+			<m_ObjectName text="SAILOR_Atleer_Bld_Alt"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Well_Alt"/>
+			<m_ObjectName text="SAILOR_Atleer_Well_Alt"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Blanket"/>
+			<m_ObjectName text="SAILOR_Atleer_Blanket"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Blanket_Alt1"/>
+			<m_ObjectName text="SAILOR_Atleer_Blanket_Alt1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SAILOR_Atleer_Blanket_Alt2"/>
+			<m_ObjectName text="SAILOR_Atleer_Blanket_Alt2"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects:XLP>
