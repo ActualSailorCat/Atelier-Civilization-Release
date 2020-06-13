@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="ko_KR" Tag="LOC_LEADER_SAILOR_LNS_NAME">
+			<Text>리디와 수르</Text>
+		</Replace>
+		<Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_NAME">
+			<Text>신비한 그림</Text>
+		</Replace>
+		<Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_DESCRIPTION">
+			<Text>궁전은 [ICON_GreatWork_Photo][ICON_GreatWork_Landscape][ICON_GreatWork_Religious][ICON_GreatWork_Sculpture] 걸작 미술품 슬롯을 제공합니다. 아틀리에 시설은 3개 이상의 자원에 인접했을 때 턴당 +1의 [ICON_GreatArtist] 위대한 예술가 점수를 획득합니다. [ICON_GreatArtist] 위대한 작가를 모집하면 무작위 [ICON_CivicBoosted] 영감을 획득합니다.</Text>
+		</Replace>
+		<Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_SAILOR_LNS_UA_XP_DESCRIPTION">
+			<Text>궁전과 정부 청사 건물은 [ICON_GreatWork_Portrait][ICON_GreatWork_Landscape][ICON_GreatWork_Religious][ICON_GreatWork_Sculpture] 걸작 미술품 슬롯을 지급합니다. 아틀리에 시설은 3개 이상의 자원에 인접했을 때 턴당 +1의 [ICON_GreatArtist] 위대한 예술가 점수를 획득합니다. [ICON_GreatArtist] 위대한 작가를 모집하면 무작위 [ICON_CivicBoosted] 영감을 획득합니다.</Text>
+		</Replace>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAILOR_LNS" Language="ko_KR">
+			<Text>
+				리디, 수르 말렌이시여! 당신들의 강한 유대감과 깊은 공감 능력은 왕국의 모두를 위해 훌륭한 아틀리에를 운영하는데 있어 가장 큰 자산입니다. 당신들의 문명에 영감을 불어넣기 위해 당신들의 신비한 그림에서 창조된 세계를 사용하십시오.
+			</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_TITLE" Language="ko_KR">
+			<Text>리디와 수르</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_SUBTITLE" Language="ko_KR">
+			<Text>리디와 수르 말렌</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_QUOTE" Language="ko_KR">
+			<Text>
+				엄마와의 약속 제 27번! "놀고 싶다면 주저하지 마라!"
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>
+			    리디 말렌은 차분하고 조용한 수르의 쌍둥이 언니입니다. 그녀는 특별한 예술 감각을 가지고 있는 것으로 알려졌습니다. 그녀는 수도 아다렛트에 위치한 메르베유라는 작은 아틀리에에 살고 있습니다. 그녀는 두 쌍둥이 중에서 차분한 성격으로 그녀의 동생을 돌보고 있습니다. 두 사람은 매일마다 왕국 최고의 아틀리에를 만들려고 노력합니다. 그녀는 운동을 못 하지만 공부를 잘하고, 사교적이며 친절하며, 태평스럽고, 자신만의 속도로 일합니다. 하지만 그녀는 때때로 덜렁거릴 수 있습니다. 플레이어 캐릭터로서의 그녀는 치유와 보조를 더 좋아합니다. 또한 그녀는 쌍둥이 동생보다 더 허약합니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text>
+				수르 말렌은 쌍둥이 언니인 리디와 반대로 말괄량이에 가깝지만 벌레를 싫어하는 활기넘치는 소녀입니다. 그녀는 수도 아다렛트에 위치한 메르베유라는 작은 아틀리에에 살고 있습니다. 그녀와 그녀의 언니는 언젠가 왕국 최고의 아틀리에를 만드는 것을 꿈꾸고 있습니다. 두 사람 중 동생으로 종종 언니를 괴롭히기도 하고, 자주 경솔합니다. 하지만 그녀는 천재성을 보입니다. 플레이어 캐릭터로서, 수르는 언니보다 더 강건하고 공격적입니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_LNS_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text>
+
+			</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>우리는 리디와 수르. 왕국 최고의 아틀리에를 운영하는 연금술사에요. 잘 부탁해요.</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>저희 아틀리에에서 상큼판 푸니젤리 한 접시를 드셔보시는 건 어떤가요?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>좋아요.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>저희의 신비한 그림은 모든 종류의 신비한 세계로 통하는 문이에요. 저희 갤러리를 둘러보실래요?</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>어서 와요.</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>사절단은 천해의 화원에서 낮잠을 자고 있어요. 피곤한 여행이었나 봐요.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>저희는 당신의 그런 선물을 원하지 않아요.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>저희 사절단은 직접 합성한 영혼의 천에 싸인 꿈의 붓을 선물하려 해요.</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>밖에서는 조심하세요. 아다렛트에는 무서운 짐승들이 살고있어요.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>당신은 저희 도시에 비해 너무 사악해요.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>저희는 영감을 얻으러 온거에요. 저희 캔버스를 옮기기 위해 당신의 땅을 넘어가도 될까요?</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>엄마와의 약속 제 27번! '놀고 싶다면 주저하지 마라!'</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>엄마와의 약속 제 5번! '이상한 사람들로부터 떨어져!'</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>더 많은 친구를	사귀면 친구와 함께 맛있는 과자와 차를 먹을 수 있어요. 어때요?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>야호!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>으으으...</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>동맹 없이는 콤비네이션 아츠를 사용할 수 없어요. 저희는 동료에요.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>만약 당신이 저희의 국경에서 당신의 군대를 없애주신다면 기억할거에요. 엄마와의 약속 제 7번! '때로는 아무것도 못 본 척 해라.'</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>알겠습니다.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>쓸데없는 짓 하지 마세요.</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>저희의 그림을 노리시나요? 그건 먹기 위한 게 아니에요.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>당신은 세상의 얼룩이에요. 당신이 흑의 지평선을 넘어왔다고 확신해요.(공개 비난)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>만약 저희가 준비하지 않고 싸운다고 생각하셨다면, 저희가 배틀 믹스를 하는 걸 본 적이 없으신거에요.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>누군가는 당신의 독재로부터 해방시켜줄 사람이 되어야 해요. 다만 저희는 우연히 N/A 폭탄을 가지고 있죠.</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>휴, 신비한 엘릭시르같은 제안이에요.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>저희는 아직 당신의 이름이 적힌 엄청난 폭탄이 있어요.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>평화를 맺어봐요.</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>우리의 모든 신비한 그림 세계 중에서, 이 그림의 가혹함을 설명할 수 없었어요...</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>걱정하지 마세요. 우리의 그림 중에서 당신을 위한 장소를 찾아볼게요.</Text>
+		</Row>
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_SAILOR_LNS_NAME" Language="ko_KR">
+			<Text>공감하는 쌍둥이들</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAILOR_LNS_DESCRIPTION" Language="ko_KR">
+			<Text>리디와 수르는 그들의 시민들이 행복한 삶을 즐기며, 다른 문명도 그러기를 원합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_LNS_REASON_HAPPY_CITIZEN" Language="ko_KR">
+			<Text>(당신의 시민들은 행복합니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_LNS_HAPPY_CITIZENS" Language="ko_KR">
+			<Text>리디와 수르는 행복한 시민들을 가진 문명을 좋아합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_LNS_REASON_UNHAPPY_CITIZEN" Language="ko_KR">
+			<Text>(당신의 시민들은 불행합니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_LNS_UNHAPPY_CITIZENS" Language="ko_KR">
+			<Text>리디와 수르는 불행한 시민들을 가진 문명을 싫어합니다.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>저희는 최근에 당신의 시민들이 당신을 위해 연 축제에 참가했어요. 당신은 정말 시민들을 위하는 것 같아요.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAILOR_LNS_ANY" Language="ko_KR">
+			<Text>시민들의 아픔에 공감할 수 없는 지도자는 용서할 수 없어요.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+	<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_NAME" Language="ko_KR">
+			<Text>아틀리에</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_DESCRIPTION" Language="ko_KR">
+			<Text>아틀리에 제국</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAILOR_ATLEER_ADJECTIVE" Language="ko_KR">
+			<Text>아틀리에</Text>
+		</Row>
+
+	<!--Pedia
+		<Row Tag="LOC_CIVINFO_SAILOR_ATLEER_LOCATION" Language="ko_KR">
+			<Text>Asia and Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAILOR_ATLEER_POPULATION" Language="ko_KR">
+			<Text>About 21 million before the plague; about 13 million after.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAILOR_ATLEER_SIZE" Language="ko_KR">
+			<Text>3,500,000 km² (1,400,000 sq mi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SAILOR_ATLEER_CAPITAL" Language="ko_KR">
+			<Text>Arland</Text>
+
+		</Row>-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAILOR_ATLEER_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>아틀리에 시리즈는 거스트 사가 1997년부터 개발한 롤플레잉 비디오 게임의 프랜차이즈로, 주로 플레이스테이션 콘솔(PlayStation, PlayStation 2, PlayStation 3, PlayStation 4); 게임보이 컬러, 게임보이 어드밴스, 닌텐도 DS, 닌텐도 3DS, 플레이스테이션 포터블, 플레이스테이션 비타, 원더스완 컬러로 발매되었다. 시리즈 중 두 게임은 세가 새턴과 드림캐스트에 의해 유통되었습니다. 이 시리즈는 일본에서만 발매되었지만, 최근 타이틀은 해외 시장을 위해 현지화되었습니다. 이 프랜차이즈는 아틀리에에서의 연금술에 중점을 두고 있다; 게임 플레이는 더 나은 아이템을 만들기 위해 레시피에서 아이템을 찾거나, 수집하고, 조합하는 것을 포함합니다. 이것은 플레이어가 게임에서 더 성장하게 합니다</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAILOR_ATLEER_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text>연금술은 아틀리에 시리즈의 대표 주제입니다. 플레이어는 게임의 캐릭터를 조종하며 요리 재료, 회복품, 도구, 무기, 갑옷, 액세서리 등 새로운 물건을 만들기 위한 연금술 레시피에 사용할 재료들을 모으기 위해 게임 세계를 돌아다닙니다. 조합된 물건은 일반적으로 연금술을 통해 더 강력해지거나 더 강력한 물건을 만들기 위해 필요합니다. 이 게임들의 특징은 조합품의 레시피로 만든 아이템의 특성 체계를 바꾸는 것입니다. 레시피는 또한 종종 아이템을 대체할 수 있게 하는데, 이것은 최종적으로 만들어지는 조합품에 더 나은 특성을 부여하거나 캐릭터가 새로운 레시피를 생각하는 데에 이어질 수 있습니다. 이 게임들은 보통 턴제 전투를 채용하고 있는데, 이것은 연금술로 만들어진 아이템들이 나와서 캐릭터의 능력을 향상시키거나 공격, 방어 또는 지원하는 것을 위함입니다.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAILOR_ATLEER_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text>이 게임들의 이야기들은 가볍고 웃기며, 종종 적이 아닌 엉뚱한 곳에서 갈등이 나오고, 플레이어는 결국 많은 캐릭터들로 세계를 탐험하게 됩니다. 대부분의 시리즈 게임에서 플레이어는 아이템 수집, 여행 또는 조합과 같은 하나 이상의 주요 목표와 행동을 달성하는 데에 제한된 시간을 가지게 됩니다. 이 시간 제한은 다소 관대한 경향이 있지만, 게임의 주요 과제를 제때 달성하지 못하면 뜻밖의 엔딩이 나오거나 배드 엔딩을 맞이하게 됩니다. 신비한 아틀리에 시리즈의 첫번째 작품인 소피의 아틀리에는 시간제한 시스템을 없앴지만, 두번째 작품인 피리스의 아틀리에는 게임의 첫번째 스토리 목표를 달성하는 데까지 플레이어들이 여유롭게 줄길 수 있을 정도의 시간제한이 있습니다.</Text>
+		</Row>
+		
+	<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_1" Language="ko_KR">
+			<Text>하겔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_2" Language="ko_KR">
+			<Text>로지</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_3" Language="ko_KR">
+			<Text>베인</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_4" Language="ko_KR">
+			<Text>로제릭스</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_5" Language="ko_KR">
+			<Text>클레인</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_6" Language="ko_KR">
+			<Text>펠트</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_7" Language="ko_KR">
+			<Text>엣지</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_8" Language="ko_KR">
+			<Text>스테르크</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_9" Language="ko_KR">
+			<Text>치무</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MALE_10" Language="ko_KR">
+			<Text>키스그리프</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_1" Language="ko_KR">
+			<Text>로제</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_2" Language="ko_KR">
+			<Text>마티아스</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_3" Language="ko_KR">
+			<Text>피터</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_4" Language="ko_KR">
+			<Text>페페론</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_5" Language="ko_KR">
+			<Text>게랄드</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_6" Language="ko_KR">
+			<Text>익셀</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_7" Language="ko_KR">
+			<Text>오스카</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_8" Language="ko_KR">
+			<Text>마크</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_9" Language="ko_KR">
+			<Text>지오</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_MALE_10" Language="ko_KR">
+			<Text>해리</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_1" Language="ko_KR">
+			<Text>마리</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_2" Language="ko_KR">
+			<Text>에리</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_3" Language="ko_KR">
+			<Text>리리</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_4" Language="ko_KR">
+			<Text>주디</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_5" Language="ko_KR">
+			<Text>비오라트</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_6" Language="ko_KR">
+			<Text>이리스</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_7" Language="ko_KR">
+			<Text>우르리카</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_8" Language="ko_KR">
+			<Text>비제</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_9" Language="ko_KR">
+			<Text>네르케</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_FEMALE_10" Language="ko_KR">
+			<Text>파멜라</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_1" Language="ko_KR">
+			<Text>일메리아</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_2" Language="ko_KR">
+			<Text>피리스</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_3" Language="ko_KR">
+			<Text>소피</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_4" Language="ko_KR">
+			<Text>루루아</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_5" Language="ko_KR">
+			<Text>샤리스텔라</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_6" Language="ko_KR">
+			<Text>샤를롯테</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_7" Language="ko_KR">
+			<Text>에스카</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_8" Language="ko_KR">
+			<Text>아샤</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_9" Language="ko_KR">
+			<Text>메루루</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAILOR_ATLEER_MODERN_FEMALE_10" Language="ko_KR">
+			<Text>로로나</Text>
+		</Row>
+
+		<!--UnitNames-->
+		<Row Tag="LOC_UNITNAME_SUFFIX_SAILOR_ALCHEMIST" Language="ko_KR">
+			<Text>연금술사</Text>
+		</Row>
+
+		<!--UA-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_NAME" Language="ko_KR">
+			<Text>연금술 조합</Text>
+		</Row>
+			<!--R&F, Vanilla-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_DESCRIPTION" Language="ko_KR">
+			<Text>[ICON_TechBoosted] 유레카 또는 [ICON_CivicBoosted] 영감을 획득하면 자신의 영토에 가끔 무작위 자원이 생성됩니다. 전략 자원이 필요한 유닛은 그렇지 않은 유닛을 공격할 때 +6의 [ICON_Strength] 전투력 보너스를 얻습니다.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAILOR_ATLEER_UA_MOD_PREVIEW_TEXT" Language="ko_KR">
+			<Text>전략 자원이 필요한 유닛이 전략 자원이 필요없는 유닛을 공격할 시 + 6</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAILOR_ATLEER_UA_NAME" Language="ko_KR">
+			<Text>연금술의 이점</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAILOR_ATLEER_UA_DESCRIPTION" Language="ko_KR">
+			<Text>[ICON_Strength] 전략 자원이 필요한 유닛이 전략 자원이 필요없는 유닛을 공격할 시 + 6</Text>
+		</Row>
+			<!--Gathering Storm-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAILOR_ATLEER_UA_XP2_DESCRIPTION" Language="ko_KR">
+			<Text>[ICON_TechBoosted] 유레카 또는 [ICON_CivicBoosted] 영감을 획득하면 자신의 영토에 가끔 무작위 자원이 생성됩니다. 전략 자원이 개선되는 동안 비축량이 동일한 양만큼 5턴간 축적됩니다.</Text>
+		</Row>
+
+		<!--UU-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SAILOR_ATLEER_UU_NAME" Language="ko_KR">
+			<Text>푸니</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SAILOR_ATLEER_UU_DESCRIPTION" Language="ko_KR">
+			<Text>정찰병을 대체하는 아틀리에 특유의 고대 유닛입니다. 언덕 타일에서 턴을 시작할 시 [ICON_Movement] 행동력 2를 얻습니다.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAILOR_ATLEER_UU_NAME" Language="ko_KR">
+			<Text>푸니</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAILOR_ATLEER_UU_DESCRIPTION" Language="ko_KR">
+			<Text>정찰병을 대체하는 아틀리에 특유의 고대 유닛입니다. 언덕 타일에서 턴을 시작할 시 [ICON_Movement] 행동력 2를 얻습니다.</Text>
+		</Row>
+
+		<!--UI-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SAILOR_ATLEER_UI_NAME" Language="ko_KR">
+			<Text>아틀리에</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SAILOR_ATLEER_UI_DESCRIPTION" Language="ko_KR">
+			<Text>[ICON_Housing] 주거공간 +1. 인접한 전략자원에서 [ICON_Science] 과학 +1 및 [ICON_Gold] 금 +2, 인접한 사치 자원에서 [ICON_Culture] 문화 +1 및 [ICON_Gold] 금 +2, 인접한 보너스 자원에서 [ICON_Food] 식량 +1 및 [ICON_Production] 생산력 +1을 얻습니다. 화학 연구시 생산량은 두배가 됩니다. 도시당 하나만 건설할 수 있습니다.</Text>		
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_ATLEER_UI_NAME" Language="ko_KR">
+			<Text>아틀리에</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_ATLEER_UI_DESCRIPTION" Language="ko_KR">
+			<Text>[ICON_Housing] 주거공간 +1. 인접한 전략자원에서 [ICON_Science] 과학 +1 및 [ICON_Gold] 금 +2, 인접한 사치 자원에서 [ICON_Culture] 문화 +1 및 [ICON_Gold] 금 +2, 인접한 보너스 자원에서 [ICON_Food] 식량 +1 및 [ICON_Production] 생산력 +1을 얻습니다. 화학 연구시 생산량은 두배가 됩니다. 도시당 하나만 건설할 수 있습니다.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

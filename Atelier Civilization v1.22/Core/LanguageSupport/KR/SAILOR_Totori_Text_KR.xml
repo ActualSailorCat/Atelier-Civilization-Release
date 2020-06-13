@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="ko_KR" Tag="LOC_LEADER_SAILOR_TOTORI_NAME">
+			<Text>토토리</Text>
+		</Replace>
+		<Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_SAILOR_TOTORI_UA_NAME">
+			<Text>알란드의 나그네</Text>
+		</Replace>
+		<Replace Language="ko_KR" Tag="LOC_TRAIT_LEADER_SAILOR_TOTORI_UA_DESCRIPTION">
+			<Text>항해와 조선 기술이 잠금 해제된 상태로 게임을 시작합니다. 자신의 유닛이 타 대륙에 처음 이동하면 [ICON_TechBoosted] 유레카를 획득합니다. 해안 도시에 정착하거나 점령했을 때마다 무료 해상 유닛을 획득합니다.</Text>
+		</Replace>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAILOR_TOTORI" Language="ko_KR">
+			<Text>토투리아 헬몰트시여, 당신은 운명의 뱃머리에 서있습니다. 당신의 모험 정신으로 고요함 속에 흐르는 사나운 물살을 가르도록 하십시오! 당신의 기개와 경험은 어떠한 도전에도 용기를 선사할 것입니다. 수평선 너머로 다른 이들을 인도하십시오! 세상은 당신의 것이 될 것입니다.</Text>
+		</Row>
+
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_TITLE" Language="ko_KR">
+			<Text>토토리</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_SUBTITLE" Language="ko_KR">
+			<Text>토투리아 헬몰트</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_QUOTE" Language="ko_KR">
+			<Text>
+				이 책을 봐줘! 이건 "토토리와 미미의 모험"! 우리의 이야기야!
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>
+				토토리는 토토리의 아틀리에~알란드의 연금술사~에서 처음 소개된 어리고 다소 서툰, 순진한 연금술사입니다. 그녀는 조금 심술궃지만, 매우 상냥하고 자상합니다. 토토리가 모험을 시작했을 때, 그녀는 소심하고, 겁을 잘 먹고, 쉽게 지쳤습니다. 그녀는 다른 사람들의 도움에 의존하지만, 믿음직스럽고 강한 모험가로 성장하여 많은 동료들을 사귀고 그녀의 이름을 알란드 전역에 퍼트리게 됩니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_2" Language="ko_KR">
+			<Text>
+				그녀는 작은 어촌에서 소꿉친구 지노와 함께 자랐으며, 세계적으로 유명한 모험가 기제라의 딸입니다. 어머니의 행방불명이 계기가 되어 토토리는 어머니의 행방에 대한 단서를 찾아 모험을 떠나게 되었습니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_3" Language="ko_KR">
+			<Text>
+			    그녀는 유명한 연금술사 로로나에게 연금술 교육을 받은 로로나의 첫번째 제자입니다. 그녀는 연습을 처음 시작할 때 많은 실수(많은 폭발)를 했지만	결국 엄청 뛰어난 연금술사가 되어, 심지어 몇년의 연습만으로 다른 사람들을 가르칠만큼 훌륭해졌습니다. 그녀는 전투와 연금술에서 치무의 도움을 받습니다.
+		    </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_4" Language="ko_KR">
+			<Text>
+			    이 게임에서는 어린 연금술사 지망생인 토투리아 헬몰트를 지켜봅니다. 그녀는 이전 게임의 주인공이었던 로로라이나 프릭셀으로부터 가르침을 받습니다. 그녀의 어머니 기제라 헬몰트는 2년 전에 연락이 끊긴 유명한 모험가입니다. 토토리는 나이가 들면서 어머니의 행방을 알고 싶어하는데, 이것이 게임의 주 목적이 됩니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_5" Language="ko_KR">
+			<Text>
+			    토토리는 언니에게 모험가가 될 수 있는 방법을 묻습니다. 그녀의 언니 체칠리아 헬몰트("체치"로 자주 불림)는 토토리가 어머니처럼 행방불명이 될 것을 우려하여 토토리의 부탁을 곧바로 거절합니다. 하지만 토토리는 결심을 굳히고 소꿉친구인 지노 크나프에게 상담하는데, 지노 크나프도 모험가가 되고 싶어 했습니다.
+				
+				그들은 모험가 길드의 본고장인 알란드로 여행하기 위해 10만 콜이 필요할 것이라고 말하는 마부 피터와 상담합니다. 지노와 토토리는 돈을 마련하기 위해 한달간 알란냐 주변의 몬스터들을 사냥해서 재료를 모으기로 결심합니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_6" Language="ko_KR">
+			<Text>
+			    한달 뒤, 알란드로 가는 마차 비용을 지불할 수 없다는 걸 깨닫고 지노와 토토리는 낙심합니다. 토토리가 모험가 자격을 얻는 것에 얼마나 진지한지 지켜본 체시는 토토리가 모험가가 되는 것을 허락하며 여행을 위한 돈을 건내줍니다. 그녀에게 허락을 받은 토토리와 지노는 알란드로 여행을 떠납니다.
+				
+				알란드에 도착 후, 지노와 토토리는 모험가 자격을 얻으러 갑니다. 길드에 도착하자 토토리와 지노는 쿠델리아와 미미 사이에서 벌어지는 논쟁에 휘말립니다. 쿠델리아는 토토리가 연금술사라는 사실을 알게되자 그녀의 가치를 인정하여 그녀와 지노에게 모험가 자격을 수여합니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_7" Language="ko_KR">
+			<Text>
+				체치는 토토리가 알란냐로 돌아올 날이 다가오자 몹시 걱정했지만, 토토리는 체치에게 좋은 소식을 전해주었습니다. 쿠델리아는 토토리에게 3년 동안만 자격을 가지게 될 것이라 말했고, 토토리가 충분한 점수를 쌓지 못한다면 자격이 취소되는 것이었습니다. 이때부터 게임의 도입부가 끝나고, 플레이어는 토토리의 자격을 올리는 데에 3년이 주어집니다.
+				
+				3년 후, 토토리는 토토리의 성이 기제라와 같은 헬몰트라는 것을 알게된 쿠델리아로부터 어머니에 행방에 대해 약간 전해 듣습니다. 쿠델리아는 토토리에게 기세라가 쓴 종이 한장을 건네주는데, 이것은 그녀가 바다로 떠난다는 내용이었습니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_8" Language="ko_KR">
+			<Text>
+			    토토리가 기제라가 어디로 갈지 알 것 같다며 흥분해서 가족에게 돌아오자, 그들은 그녀의 보트 조각들이 해안으로 떠내려 왔으며 그녀가 죽었을 것이라고 낙담하며 설명합니다. 토토리는 어머니가 죽었다고 믿지 않고, 아버지 구이도에게 배를 만들어달라고 부탁합니다. 체치는 화내면서 토토리와 아버지의 계획을 반대합니다. 체치가 구이도와 토토리에게 선박 건조를 허가할 때까지, 플레이어는 알란냐를 떠날 수 없게 됩니다.
+			
+			    토토리는 아버지가 배를 건조하기 위한 선박 부품을 모아야 합니다. 모든 재료가 전달되면 구이도는 토토리의 배를 만들고, 그녀는 바닷길로 나아갑니다. 토토리는 동쪽으로 향하며 기세라의 배를 파괴했다고 믿었던 거대물고기 프라우 슈트라우트와 마주칩니다. 프라우 슈트라우트의 얼굴에 난 상처를 본 토토리는 기세라가 상처를 입혔다고 믿고 자신감을 얻어 물리칩니다.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAILOR_TOTORI_CHAPTER_HISTORY_PARA_9" Language="ko_KR">
+			<Text>
+			    프라우 슈트라우트가 패한 뒤, 토토리는 그녀의 어머니의 소식을 들은 변경의 최후의 마을로 나아갑니다. 그녀가 도착하자 마을 장로인 필카는 토토리가 도착했다는 소식에 충격을 받습니다. 그녀는 토토리에게 기세라가 최후의 마을에 방문한 뒤 일어난 일들에 대해 말하고, 토토리는 마을 사람들이 기세라를 위해 세운 비석을 발견합니다. 그녀는 그 소식을 체치와 구이도에게 전달하기 위해 알란냐 마을로 돌아옵니다.
+				
+				이 게임은 토토리가 7년차 자격을 따러 갈때 끝나고, 게임 내 플레이어의 행동에 따라 다른 엔딩을 보게 됩니다. 이 게임의 진엔딩은 토토리의 어머니가 집으로 돌아오는 모습을 그립니다.
+				
+				메루루의 아틀리에에서, 어느날 갑자기 어머니가 집으로 돌아왔기 때문에 어머니가 실제로 죽은 적이 없다고 설명합니다.
+			</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>아, 안녕하세요! 저는 토투리아 헬몰트, 연금술사이자 모험가에요. 혹시 당신의 영토에서 할버드를 가진 검읜 머리의 여성을 본 적 있나요?</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>제 배에 오시면, 거대 오징어로 만든 술을 마시며 모험을 할 수 있어요.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>좋아요.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>제 고향은 작지만, 해산물이 풍부하며 경치가 좋아요. 당신은 어떤가요?</Text>
+		</Row>
+
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>어?</Text>
+		</Row>
+
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>그들의 친절한 대접과 그들의 선물로 보아 최고의 조합을 할 수 있을 것 같아요!</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>저는 의뢰를 수행하러 떠나야해요. 다음에 부탁드려요.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>물고기 맥주와 넙치 파이가 가득 담긴 배가 곧 당신의 가까운 항구에 정박할 거에요.</Text>
+		</Row>
+
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>저희에게 국경이 방해되어서는 안돼요.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>그러기엔 당신을 신뢰할 수가 없어요.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>건너편을 탐사하기 위해 국경을 넘을 수 있을까요?</Text>
+		</Row>
+
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>더할나위 없이 좋은 소리에요.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>음... 꽤 넓은 정박지가 있으면 좋겠어요.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>우정이란 밤에 지나가는 배와 같다지만, 우리 사이는 좀 유지될 것 같아요. 그렇지 않나요?</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>기뻐요!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>네, 알겠어요.</Text>
+		</Row>
+
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>당신이 악마와 짙푸른 바다 사이에 끼어들었을 때, 당신은 믿음직스러운 파티를 가지게 될 거에요. 우리가 하나가 될 수 있을까요?</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>너무 가까워서... 군대를 멀리 보내주실 수 있나요?</Text>
+		</Row>
+
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>거래하죠.</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>그 제안은 저를 바다 밖으로 떠나게 할 것 같군요.</Text>
+		</Row>
+
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>당신은 물고기 맥주를 너무 많이 드셨네요.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>당신은 너무 괴물같아서 프라우 슈트라우트를 자선가처럼 보이게 하는군요! (공개 비난)</Text>
+		</Row>
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>저의 위험을 감수하고 당신의 본색을 드러내겠습니다.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>배의 창구를 널빤지로 고정시키는 게 좋을거에요. 이제 태풍의 계절이 다가오거든요.</Text>
+		</Row>
+
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>잔잔한 바다로 돌아가는군요.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>당신은 이 폭풍우를 이겨내야 할 거에요.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>파도는 그만 일으키도록 해요.</Text>
+		</Row>
+
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>저는 항상 이 모험이 저의 마지막이 될 것이란 걸 알고 있었어요.</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>당신과 함께 심해로 떠날게요.</Text>
+		</Row>
+
+
+		<!--LEADER AGENDA-->
+		<Row Tag="LOC_AGENDA_SAILOR_TOTORI_NAME" Language="ko_KR">
+			<Text>피오니아</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAILOR_TOTORI_DESCRIPTION" Language="ko_KR">
+			<Text>토토리가 최후의 마을을 찾을테니, 그녀에게 맡기십시오.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_TOTORI_REASON_HIGH_EXPLORATION" Language="ko_KR">
+			<Text>(토토리보다 많은 탐험을 했습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_TOTORI_HIGH_EXPLORATION" Language="ko_KR">
+			<Text>토토리는 세계를 더 많이 탐험한 사람을 싫어합니다.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDA_LEADER_SAILOR_TOTORI_REASON_LOW_EXPLORATION" Language="ko_KR">
+			<Text>(토토리보다 탐험을 덜 했습니다.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAILOR_TOTORI_LOW_EXPLORATION" Language="ko_KR">
+			<Text>토토리는 세계를 덜 탐험한 사람을 좋아합니다.</Text>
+		</Row>
+
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>당신이 떠나는 걸 모험가에게 맡기는 건 현명해요.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SAILOR_TOTORI_ANY" Language="ko_KR">
+			<Text>조심하세요. 모험가가 최후의 마을을 탐색하는 게 더 나을 거에요.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
