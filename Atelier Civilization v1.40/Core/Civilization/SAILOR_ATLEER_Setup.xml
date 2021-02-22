@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Parameters>
+		<Row ParameterId="SailorAtelierDesync" Name="LOC_SAILOR_ATELIER_DESYNC_NAME" Description="LOC_SAILOR_ATELIER_DESYNC_DESCRIPTION" Domain="bool" DefaultValue="0" ConfigurationGroup="Game" ConfigurationId="SAILOR_ATELIER_DESYNC" GroupId="AdvancedOptions" SortIndex="2010" />
+	</Parameters>
+</GameData>

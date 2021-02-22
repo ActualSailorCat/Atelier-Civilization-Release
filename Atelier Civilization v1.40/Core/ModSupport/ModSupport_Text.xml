@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Alchemist Unit Mod-->
+		<Row Tag="LOC_BUILDING_SAILOR_ALCHEMIST_SHOP_ALT_NAME" Language="en_US">
+			<Text>Alchemist's Tower</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!--Mountain Ranges-->
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_CALAMITOUS_MOUNTAINS">
+			<Text>Calamitous Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_STER_HIGHLANDS">
+			<Text>Ster Highlands</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_MOUNTAIN_MORRAKIS_RANGE">
+			<Text>Morrakis Range</Text>
+		</Row>
+		<!--Rivers-->
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_MORNING_MIST_RIVER">
+			<Text>Morning Mist River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_STRUDEL_RIVER">
+			<Text>Strudel River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_FORGETFUL_STREAM">
+			<Text>Forgetful Stream</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_RIVER_ABANDONED_RIVER">
+			<Text>Abandoned River</Text>
+		</Row>
+		<!--Deserts-->
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_DUSK_SEA">
+			<Text>Dusk Sea</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_SCORCHED_WASTELAND">
+			<Text>Scorched Wasteland</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_BRAISEWEST_DESERT">
+			<Text>Braisewest Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_WITHERING_PLAINS">
+			<Text>Withering Plains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_DESERT_SEARING_WASTES">
+			<Text>Searing Wastes</Text>
+		</Row>
+		<!--Volcanoes-->
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_GREAT_CASCADES_OF_ANFEL">
+			<Text>Great Cascades of Anfel</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_FATALIA_SUMMIT">
+			<Text>Fatalia Summit</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_VELUS">
+			<Text>Mount Velus</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_WIELAND">
+			<Text>Mount Wieland</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_MOUNT_GREUGNET">
+			<Text>Mount Greugnet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_VOLCANO_WEISSBERG_VOLCANO">
+			<Text>Weissberg Volcano</Text>
+		</Row>
+		<!--Lakes-->
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_NABEL_LAKE">
+			<Text>Nabel Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_SEA_DRAGON_POOL">
+			<Text>Sea Dragon Pool</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_TIMELOST_LAKE">
+			<Text>Timelost Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_LAKE_FORWEL">
+			<Text>Lake Forwel</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_CRESCENT_LAKE">
+			<Text>Crescent Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_HEBEL_LAKE">
+			<Text>Hebel Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_PROSPECTORS_STRAND">
+			<Text>Prospector's Strand</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_LAKE_LAKE_MIDGARD">
+			<Text>Lake Midgard</Text>
+		</Row>
+		<!--Seas-->
+		<Row Tag="LOC_NAMED_SAILOR_SEA_TWILIGHT_OCEAN">
+			<Text>Twilight Ocean</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SAILOR_SEA_WAVEBREAKER_COVE">
+			<Text>Wavebreaker Cove</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
